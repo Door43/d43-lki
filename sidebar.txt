@@ -1,0 +1,18 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lki:home|Door43 (lki)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[lki:obs|Open Bible Stories (lki)]]
+
+**Recent Changes**
+{{changes>ns = lki}}
+
+**Latest Status**
+{{page>en:uwadmin:lki:obs:status}}
+
